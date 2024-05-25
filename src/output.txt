@@ -1,0 +1,10 @@
+No output
+No output
+Min Severity: 10.17, Max Severity: 23.72, Mean Severity: 16.945
+No output
+No output
+Min Severity: 0.0, Max Severity: 0.0, Mean Severity: 0.0
+Min Severity: 10.17, Max Severity: 23.72, Mean Severity: 18.2075
+Min Severity: 15.22, Max Severity: 15.22, Mean Severity: 15.22
+Min Severity: 10.17, Max Severity: 23.72, Mean Severity: 16.945
+Min Severity: 10.17, Max Severity: 23.72, Mean Severity: 19.203333
